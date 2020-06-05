@@ -1,0 +1,40 @@
+﻿  MyForm.cpp
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CFantasma.h(65,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CFantasma.h(65,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CMapa.h(45,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CMapa.h(89,158): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CMapa.h(97,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CMapa.h(131,25): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CMapa.h(160,25): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CMapa.h(187,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\Juego_go.h(121,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\MyForm.cpp(7,1): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CLista.h(106,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CLista.h(103): message : al compilar la función del miembro clase plantilla "T Lista<T,0x0>::obtenerPos(uint)"
+          with
+          [
+              T=CMapa *
+          ]
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\Juego_go.h(151): message : Vea la referencia a la creación de una instancia de la función plantilla "T Lista<T,0x0>::obtenerPos(uint)" que se está compilando
+          with
+          [
+              T=CMapa *
+          ]
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\Juego_go.h(50): message : Vea la referencia a la creación de una instancia de clase plantilla "Lista<CMapa *,0x0>" que se está compilando
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CLista.h(81,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CLista.h(74): message : al compilar la función del miembro clase plantilla "void Lista<CMapa *,0x0>::agregaPos(T,uint)"
+          with
+          [
+              T=CMapa *
+          ]
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CLista.h(97): message : Vea la referencia a la creación de una instancia de la función plantilla "void Lista<CMapa *,0x0>::agregaPos(T,uint)" que se está compilando
+          with
+          [
+              T=CMapa *
+          ]
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\CLista.h(55): message : al compilar la función del miembro clase plantilla "uint Lista<CMapa *,0x0>::longitud(void)"
+C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\TF_AlgoritmosJF\Juego_go.h(145): message : Vea la referencia a la creación de una instancia de la función plantilla "uint Lista<CMapa *,0x0>::longitud(void)" que se está compilando
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  TF_AlgoritmosJF.vcxproj -> C:\Users\User\Desktop\UPC\Programacion\TF_AED\TF_Juego\Debug\TF_AlgoritmosJF.exe
